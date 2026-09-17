@@ -121,3 +121,4 @@
 {"timestamp":"2026-09-17T12:32:54.553734Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopkart_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-09-17T12:33:25.219105Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopkart_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
 {"timestamp":"2026-09-17T12:33:55.908560Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopkart_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-09-17T12:34:26.198591Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopkart_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
