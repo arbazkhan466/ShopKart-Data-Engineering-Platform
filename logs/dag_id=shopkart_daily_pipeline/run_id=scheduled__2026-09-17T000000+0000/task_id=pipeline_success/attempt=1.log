@@ -1,0 +1,6 @@
+{"timestamp":"2026-09-17T06:26:21.783707Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-09-17T06:26:21.788276Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopkart_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-09-17T06:26:22.314072Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2026-09-17T06:26:22.315618Z","level":"info","event":"SHOPKART PIPELINE COMPLETED SUCCESSFULLY","logger":"task.stdout"}
+{"timestamp":"2026-09-17T06:26:22.316598Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2026-09-17T06:26:22.313999Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":215}

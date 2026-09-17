@@ -1,0 +1,9 @@
+{"timestamp":"2026-09-15T06:27:46.573381Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-09-15T06:27:46.575611Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopkart_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-09-15T06:27:47.495827Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2026-09-15T06:27:47.497135Z","level":"info","event":"SHOPKART DAILY DATA ENGINEERING PIPELINE STARTED","logger":"task.stdout"}
+{"timestamp":"2026-09-15T06:27:47.498187Z","level":"info","event":"======================================================================","logger":"task.stdout"}
+{"timestamp":"2026-09-15T06:27:47.499240Z","level":"info","event":"S3 Bucket Variable  : SHOPKART_S3_BUCKET","logger":"task.stdout"}
+{"timestamp":"2026-09-15T06:27:47.500181Z","level":"info","event":"Raw Prefix Variable  : SHOPKART_RAW_PREFIX","logger":"task.stdout"}
+{"timestamp":"2026-09-15T06:27:47.501151Z","level":"info","event":"Databricks Job ID    : 478726098061363","logger":"task.stdout"}
+{"timestamp":"2026-09-15T06:27:47.496208Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":215}
